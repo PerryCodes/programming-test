@@ -25,7 +25,7 @@ to run the app
 
 The app is a simple counter - please refactor the App component to use a [React Hook](https://reactjs.org/docs/hooks-intro.html) and be a function instead of a class component
 
-#####hint
+#### hint
 
 ```javascript
 export default App = () => {
@@ -50,7 +50,7 @@ Using the same date picker as Test 2 add a timer to the component to automatical
 
 Only start incrementing the date time AFTER they've selected a date time using the picker
 
-#####hint **(there is a hidden bug in this hint)**
+#### hint **(there is a hidden bug in this hint)**
 
 ```javascript
 
