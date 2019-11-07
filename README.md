@@ -63,7 +63,7 @@ const addSecond = () => {
   updateDate(currentDate.setSeconds(currentDate.getSeconds() + 1));
 }
 
-setInterval(addSecond, 1);
+setInterval(addSecond, 1000);
 
 return (
   <div></div>
